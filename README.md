@@ -3,10 +3,8 @@ Vue (读音 /vjuː/，类似于 view) 是一套用于构建用户界面的渐进
 
 ## 生命周期图示
 ![生命周期图示](https://cn.vuejs.org/images/lifecycle.png)
-
-## 目录
-  - [基础学习](#基础学习)
   
 ## 基础学习
   - [官方文档](https://cn.vuejs.org/v2/guide/)
+  - [API](https://cn.vuejs.org/v2/api/)
   
